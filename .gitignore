@@ -1,0 +1,24 @@
+## Visual Studio files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+*.exe
+*.dll
+
+## NuGet Packages
+packages/
+*.nupkg
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+## Logs and databases
+*.log
+*.sqlite
